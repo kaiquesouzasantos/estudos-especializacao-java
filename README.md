@@ -7,7 +7,7 @@
 #
 ### SOBRE
 
-- Diretório contendo reforco pratico em conceitos e aplicabilidade de desing pattern na linguagem Java, com o intuito de aperfeiçoamento e consolidação de conhecimento, em diversos aspectos da linguagem.
+- Diretório contendo reforço pratico em conceitos e aplicabilidade de design pattern na linguagem Java, com o intuito de aperfeiçoamento e consolidação de conhecimento, em diversos aspectos da linguagem.
 
 #
 ### CONTEUDO ABORDADO
