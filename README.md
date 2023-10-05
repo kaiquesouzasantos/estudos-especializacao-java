@@ -7,7 +7,7 @@
 #
 ### SOBRE
 
-- Diretório contendo o desenvolvimento de conceitos e recursos avancados na linguagem Java, com o intuito de consolidacao e especializacao do conhecimento na ferramenta.
+- Diretório contendo o desenvolvimento de conceitos e recursos avançados na linguagem Java, com o intuito de consolidação e especialização do conhecimento na ferramenta.
 
 #
 ### CONTEUDO ABORDADO
