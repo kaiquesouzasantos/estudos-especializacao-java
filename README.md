@@ -1,4 +1,4 @@
-<h1 align=center>ESTUDOS-DESIGN-PATTERN-JAVA</h1>
+<h1 align=center>ESTUDOS-ESPECIALIZACAO-JAVA</h1>
 
 <p align="center">
   <img src="java.png" width="500">
@@ -7,7 +7,7 @@
 #
 ### SOBRE
 
-- Diretório contendo reforço pratico em conceitos e aplicabilidade de design pattern na linguagem Java, com o intuito de aperfeiçoamento e consolidação de conhecimento, em diversos aspectos da linguagem.
+- Diretório contendo o desenvolvimento de conceitos e recursos avancados na linguagem Java, com o intuito de consolidacao e especializacao do conhecimento na ferramenta.
 
 #
 ### CONTEUDO ABORDADO
@@ -20,5 +20,5 @@
 ### CONTRIBUIÇÃO
 
 ```
-$ git clone https://github.com/kaiquesouzasantos/estudos-design-pattern-java.git 
+$ git clone https://github.com/kaiquesouzasantos/estudos-especializacao-java.git 
 ```
