@@ -14,6 +14,8 @@
 
 - *Curso-Java-Multithread*
   - https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG
+- *Java-Oshi-Information-Monitoring*
+  - https://github.com/oshi/oshi/tree/master
 #
 ### TECNOLOGIA
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
