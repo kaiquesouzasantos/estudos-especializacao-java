@@ -19,7 +19,12 @@ public class AbstractFactory {
         - O código pode tornar-se mais complicado do que deveria ser, uma vez que muitas novas interfaces e classes são introduzidas junto com o padrão.
 
     SOLUCAO:
-
+        - O Abstract Factory define uma interface para criar todos os produtos distintos, mas deixa a criação real do produto para classes fábrica concretas. 
+          Cada tipo de fábrica corresponde a uma determinada variedade de produtos.
+        - O código cliente chama os métodos de criação de um objeto fábrica em vez de criar produtos diretamente com uma chamada de construtor (usando operador new). 
+          Como uma fábrica corresponde a uma única variante de produto, todos os seus produtos serão compatíveis.
+        - O código cliente trabalha com fábricas e produtos somente através de suas interfaces abstratas. Ele permite que o mesmo código cliente funcione com produtos diferentes. 
+          Você apenas cria uma nova classe fábrica concreta e a passa para o código cliente.
     */
 
     public static void main(String[] args) {
