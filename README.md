@@ -5,12 +5,12 @@
 </p>
 
 #
-### SOBRE
+### 📚 SOBRE
 
 - Diretório contendo o desenvolvimento de conceitos e recursos avançados na linguagem Java, com o intuito de consolidação e especialização do conhecimento na ferramenta.
 
 #
-### CONTEUDO ABORDADO
+### ⭐ CONTEUDO ABORDADO
 
 - *Curso-Java-Multithread*
   - https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG
@@ -22,11 +22,11 @@
   - https://youtube.com/playlist?list=PLuYctAHjg89bBeh25plGraaYiAsryusw6&si=iDK20yeh6hKMqUHI
   - https://youtube.com/playlist?list=PLnOrFdw5rkTyDPr1yOW2H14Oq8u7IiDyP&si=GUQppZ9sfjY4AlLw 
 #
-### TECNOLOGIA
+### 💻 TECNOLOGIA
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)&nbsp;
 
 #
-### CONTRIBUIÇÃO
+### 🔗 CONTRIBUIÇÃO
 
 ```
 $ git clone https://github.com/kaiquesouzasantos/estudos-especializacao-java.git 
